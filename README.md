@@ -83,4 +83,8 @@
 
 ![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208201128580.jpg)![管理员-车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208201128475.jpg)
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：二手车
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
